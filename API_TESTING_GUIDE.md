@@ -2,7 +2,7 @@
 
 ## Базовый URL
 ```
-https://se.ifmo.ru/~s368721/namek/backend
+https://se.ifmo.ru/~s368721/namek/api
 ```
 
 ---
